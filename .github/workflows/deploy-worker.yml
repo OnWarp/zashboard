@@ -11,6 +11,7 @@ on:
       - "pnpm-lock.yaml"
       - "vite.config.ts"
       - "wrangler.jsonc"
+      - "worker/**"
       - ".github/workflows/deploy-worker.yml"
   workflow_dispatch:
 
