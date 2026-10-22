@@ -11,7 +11,7 @@
     "run_worker_first": true
   },
   "vars": {
-    "DEFAULT_BACKEND_URL": "https://api.cudy.us.ci"
+    "DEFAULT_BACKEND_URL": "https://api.nwrt.cc.cd"
   },
   "observability": {
     "enabled": true
